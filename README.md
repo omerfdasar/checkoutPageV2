@@ -5,6 +5,7 @@
 ## Description
 Project aims to create a real checkout page of e-commerce website.
 
+
 ## Learning Outcomes
 
 At the end of the this project, students will be able to;
@@ -32,5 +33,5 @@ At the end of the this project, students will be able to;
    - When I change any combination of product chart(plus, minus, remove etc.), I want to see the new calculation of chart's prices in concerned fields.
 
 
-
+Website: https://omerfdasar.github.io/checkoutPageV2/
 
