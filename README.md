@@ -1,6 +1,6 @@
 
 
-# Project-004 : Checkout_Page (JS-04)
+# Project : Checkout_Page
 
 ## Description
 Project aims to create a real checkout page of e-commerce website.
